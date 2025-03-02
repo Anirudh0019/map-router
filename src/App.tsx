@@ -207,7 +207,8 @@ function App() {
         
         <div className="w-full md:w-2/3 bg-white rounded-lg shadow-md overflow-hidden h-[500px] md:h-auto">
           <Map 
-            apiKey="AIzaSyBKFxPiCIZFIhsUVhRi8JmnsvWv2I_hDU0"
+          //PUT KEY HERE BELOW
+            apiKey="" // paste key in between quotes here
             options={{
               center: defaultCenter,
               zoom: 12,
